@@ -3,10 +3,15 @@ Nnware Repasta
 ss's:
 
 https://prntscr.com/ly7fr5
+
 https://prntscr.com/ly7fok
+
 https://prntscr.com/ly7fn7
+
 https://prntscr.com/ly7fl3
+
 https://prntscr.com/ly7fj9
+
 
 heres ayyware with getmem.es menu like i promised
 
