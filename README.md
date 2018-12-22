@@ -28,9 +28,7 @@ skins
 
 configs
 
-It comes with an injector that injects any dll named "phack", 
-
-The dll (packed with junk), 
+It comes with The dll (packed with junk), 
 
 And a auto junk code generator,
 
